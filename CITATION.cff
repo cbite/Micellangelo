@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use Micellangelo, please cite the preprint and the specific dataset records you used."
+title: "Micellangelo"
+type: software
+authors:
+  - name: "BiS@TU/e"
+repository-code: "https://github.com/cbite/Micellangelo"
+license: MIT
+preferred-citation:
+  type: unpublished
+  title: "Micellangelo: a Generative Model of Cell-Topography Interactions"
+  authors:
+    - family-names: Konshin
+      given-names: Nikita
+    - family-names: Minartz
+      given-names: Koen
+    - family-names: "de Boer"
+      given-names: Jan
+    - family-names: Menkovski
+      given-names: Vlado
+  year: 2026
+  month: 1
+  version: "2"
+  publisher:
+    name: bioRxiv
+  doi: "10.1101/2025.11.24.690184"
+  url: "https://www.biorxiv.org/content/10.1101/2025.11.24.690184v2"
